@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Meu App</string>
-    <string name="nome_completo">Jhom Tomaz - 06/03/2026</string>
+    <string name="nome_completo">Dionatas Tomaz - 06/03/2026</string>
     <string name="botao_clique">Clique aqui</string>
     <string name="mensagem_toast">Bem-vindo ao meu App!</string>
 </resources>
